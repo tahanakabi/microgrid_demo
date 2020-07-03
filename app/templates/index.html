@@ -1,0 +1,24 @@
+
+{% extends "base.html" %}
+{% block content %}
+
+    <h1>Hello, Welcome to the Microgrid simulation demo!</h1>
+    <p style="font-size:160%;"> The management of different supply and demand components in a microgrid is a crucial task for the success and profitability of
+        its operations. Due to the complexity of this task and the high number of parameters involved in a microgrid, model-based approaches
+        represent some issues related to cost and scalability. In our recent research, we proposed a model-free approach for the energy management
+        system based on DRL algorithms. The approach aims at optimizing the energy exchange with the grid, the energy storage, the electricity prices,
+        and the TCLs consumption without any prior assumption on the microgrid parameters and dynamics. We presented a comparative study of several DRL
+        algorithms using simulations based on real data.
+        The most successful algorithms has learned to coordinate between the components of the microgrid and perform appropriate actions according
+        to the state of TCLs, the outdoor temperatures, the wholesale electricity prices, and the generated energy as shown in the following figure.
+    </p>
+
+    <p style="font-size:160%;">
+        The control agent interacts with the environment through a state-action-reward mechanism that allows it to evaluate its actions and learn meaningful
+        correlations between the states, actions, and rewards. The reward function used in this setup is the gross margin between the energy costs and revenues
+        generated inside the microgrid (generation costs and supply revenues) and outside the microgrid (exchange with the main power grid).
+        The demo presents the results of the A3C-variation proposed in our research paper describing the outcomes of control signals on the TCLs consumption, the electricity prices,
+        the energy storage state, and the energy exchanged with the grid.
+    </p>
+
+{% endblock %}

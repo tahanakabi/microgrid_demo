@@ -1,0 +1,1229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="control_process1.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg2"
+   style="background-color: rgb(255, 255, 255);"
+   content="&lt;mxfile host=&quot;www.draw.io&quot; modified=&quot;2019-11-13T11:24:52.765Z&quot; agent=&quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36&quot; etag=&quot;Nr_xoVkgrQ_Ywc2tAAzW&quot; version=&quot;12.2.4&quot; type=&quot;onedrive&quot; pages=&quot;1&quot;&gt;&lt;diagram id=&quot;KYz0QhxEUhaGn6v_fxYi&quot; name=&quot;Page-1&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;"
+   viewBox="-0.5 -0.5 701 441"
+   height="441px"
+   width="701px"
+   version="1.1">
+  <metadata
+     id="metadata226">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:current-layer="g6"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-9"
+     inkscape:window-x="-9"
+     inkscape:cy="263.82796"
+     inkscape:cx="508.39648"
+     inkscape:zoom="0.90727532"
+     showgrid="false"
+     id="namedview224"
+     inkscape:window-height="1001"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs4">
+    <xhtml:style
+       type="text/css">
+		body { overflow:hidden; }
+		div.picker { z-index: 10007; }
+		.geSidebarContainer .geTitle input {
+			font-size:8pt;
+			color:#606060;
+		}
+		.geBlock {
+			z-index:-3;
+			margin:100px;
+			margin-top:40px;
+			margin-bottom:30px;
+			padding:20px;
+		}
+		.geBlock h1, .geBlock h2 {
+			margin-top:0px;
+			padding-top:0px;
+		}
+		.geEditor ::-webkit-scrollbar {
+		    width:14px;
+		    height:14px;
+		}
+		.geEditor ::-webkit-scrollbar-track {
+			background-clip:padding-box;
+			border:solid transparent;
+			border-width:1px;
+		}
+		.geEditor ::-webkit-scrollbar-corner {
+			background-color:transparent;
+		}
+		.geEditor ::-webkit-scrollbar-thumb {
+			background-color:rgba(0,0,0,.1);
+			background-clip:padding-box;
+			border:solid transparent;
+			border-radius:10px;
+		}
+		.geEditor ::-webkit-scrollbar-thumb:hover{
+			background-color:rgba(0,0,0,.4);
+		}
+		.geTemplate {
+			border:1px solid transparent;
+			display:inline-block;
+			_display:inline;
+			vertical-align:top;
+			border-radius:3px;
+			overflow:hidden;
+			font-size:14pt;
+			cursor:pointer;
+			margin:5px;
+		}
+		.geFooterContainer div.geSocialFooter a {
+			display:inline;
+			padding:0px;
+		}
+		.geFooterContainer div.geSocialFooter a img {
+			margin-top:10px;
+			opacity:0.5;
+		}
+		.geFooterContainer div.geSocialFooter a img:hover {
+			opacity:1;
+		}
+		.geFooterContainer&gt;div#geFooter&gt;img {
+			opacity:0.5;
+			border:1px solid transparent;
+			cursor:pointer;
+			margin-top:3px;
+			margin-right:6px;
+			position:absolute;
+			right:4px;
+			top:12px;
+			padding:1px;
+			cursor:pointer;
+		}
+		.geFooterContainer&gt;div#geFooter&gt;img:hover {
+			opacity: 1;
+		}
+	</xhtml:style>
+    <xhtml:style
+       type="text/css" />
+    <xhtml:style
+       type="text/css">.MathJax_Hover_Frame {border-radius: .25em; -webkit-border-radius: .25em; -moz-border-radius: .25em; -khtml-border-radius: .25em; box-shadow: 0px 0px 15px #83A; -webkit-box-shadow: 0px 0px 15px #83A; -moz-box-shadow: 0px 0px 15px #83A; -khtml-box-shadow: 0px 0px 15px #83A; border: 1px solid #A6D ! important; display: inline-block; position: absolute}
+.MathJax_Menu_Button .MathJax_Hover_Arrow {position: absolute; cursor: pointer; display: inline-block; border: 2px solid #AAA; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; -khtml-border-radius: 4px; font-family: 'Courier New',Courier; font-size: 9px; color: #F0F0F0}
+.MathJax_Menu_Button .MathJax_Hover_Arrow span {display: block; background-color: #AAA; border: 1px solid; border-radius: 3px; line-height: 0; padding: 4px}
+.MathJax_Hover_Arrow:hover {color: white!important; border: 2px solid #CCC!important}
+.MathJax_Hover_Arrow:hover span {background-color: #CCC!important}
+</xhtml:style>
+    <xhtml:style
+       type="text/css">#MathJax_About {position: fixed; left: 50%; width: auto; text-align: center; border: 3px outset; padding: 1em 2em; background-color: #DDDDDD; color: black; cursor: default; font-family: message-box; font-size: 120%; font-style: normal; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; z-index: 201; border-radius: 15px; -webkit-border-radius: 15px; -moz-border-radius: 15px; -khtml-border-radius: 15px; box-shadow: 0px 10px 20px #808080; -webkit-box-shadow: 0px 10px 20px #808080; -moz-box-shadow: 0px 10px 20px #808080; -khtml-box-shadow: 0px 10px 20px #808080; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
+#MathJax_About.MathJax_MousePost {outline: none}
+.MathJax_Menu {position: absolute; background-color: white; color: black; width: auto; padding: 2px; border: 1px solid #CCCCCC; margin: 0; cursor: default; font: menu; text-align: left; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; z-index: 201; box-shadow: 0px 10px 20px #808080; -webkit-box-shadow: 0px 10px 20px #808080; -moz-box-shadow: 0px 10px 20px #808080; -khtml-box-shadow: 0px 10px 20px #808080; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
+.MathJax_MenuItem {padding: 2px 2em; background: transparent}
+.MathJax_MenuArrow {position: absolute; right: .5em; padding-top: .25em; color: #666666; font-size: .75em}
+.MathJax_MenuActive .MathJax_MenuArrow {color: white}
+.MathJax_MenuArrow.RTL {left: .5em; right: auto}
+.MathJax_MenuCheck {position: absolute; left: .7em}
+.MathJax_MenuCheck.RTL {right: .7em; left: auto}
+.MathJax_MenuRadioCheck {position: absolute; left: 1em}
+.MathJax_MenuRadioCheck.RTL {right: 1em; left: auto}
+.MathJax_MenuLabel {padding: 2px 2em 4px 1.33em; font-style: italic}
+.MathJax_MenuRule {border-top: 1px solid #CCCCCC; margin: 4px 1px 0px}
+.MathJax_MenuDisabled {color: GrayText}
+.MathJax_MenuActive {background-color: Highlight; color: HighlightText}
+.MathJax_MenuDisabled:focus, .MathJax_MenuLabel:focus {background-color: #E8E8E8}
+.MathJax_ContextMenu:focus {outline: none}
+.MathJax_ContextMenu .MathJax_MenuItem:focus {outline: none}
+#MathJax_AboutClose {top: .2em; right: .2em}
+.MathJax_Menu .MathJax_MenuClose {top: -10px; left: -10px}
+.MathJax_MenuClose {position: absolute; cursor: pointer; display: inline-block; border: 2px solid #AAA; border-radius: 18px; -webkit-border-radius: 18px; -moz-border-radius: 18px; -khtml-border-radius: 18px; font-family: 'Courier New',Courier; font-size: 24px; color: #F0F0F0}
+.MathJax_MenuClose span {display: block; background-color: #AAA; border: 1.5px solid; border-radius: 18px; -webkit-border-radius: 18px; -moz-border-radius: 18px; -khtml-border-radius: 18px; line-height: 0; padding: 8px 0 6px}
+.MathJax_MenuClose:hover {color: white!important; border: 2px solid #CCC!important}
+.MathJax_MenuClose:hover span {background-color: #CCC!important}
+.MathJax_MenuClose:hover:focus {outline: none}
+</xhtml:style>
+    <xhtml:style
+       type="text/css">.MathJax_Preview .MJXf-math {color: inherit!important}
+</xhtml:style>
+    <xhtml:style
+       type="text/css">.MJX_Assistive_MathML {position: absolute!important; top: 0; left: 0; clip: rect(1px, 1px, 1px, 1px); padding: 1px 0 0 0!important; border: 0!important; height: 1px!important; width: 1px!important; overflow: hidden!important; display: block!important; -webkit-touch-callout: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none}
+.MJX_Assistive_MathML.MJX_Assistive_MathML_Block {width: 100%!important}
+</xhtml:style>
+    <xhtml:style
+       type="text/css">#MathJax_Zoom {position: absolute; background-color: #F0F0F0; overflow: auto; display: block; z-index: 301; padding: .5em; border: 1px solid black; margin: 0; font-weight: normal; font-style: normal; text-align: left; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; -webkit-box-sizing: content-box; -moz-box-sizing: content-box; box-sizing: content-box; box-shadow: 5px 5px 15px #AAAAAA; -webkit-box-shadow: 5px 5px 15px #AAAAAA; -moz-box-shadow: 5px 5px 15px #AAAAAA; -khtml-box-shadow: 5px 5px 15px #AAAAAA; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
+#MathJax_ZoomOverlay {position: absolute; left: 0; top: 0; z-index: 300; display: inline-block; width: 100%; height: 100%; border: 0; padding: 0; margin: 0; background-color: white; opacity: 0; filter: alpha(opacity=0)}
+#MathJax_ZoomFrame {position: relative; display: inline-block; height: 0; width: 0}
+#MathJax_ZoomEventTrap {position: absolute; left: 0; top: 0; z-index: 302; display: inline-block; border: 0; padding: 0; margin: 0; background-color: white; opacity: 0; filter: alpha(opacity=0)}
+</xhtml:style>
+    <xhtml:style
+       type="text/css">.MathJax_Preview {color: #888}
+#MathJax_Message {position: fixed; left: 1em; bottom: 1.5em; background-color: #E6E6E6; border: 1px solid #959595; margin: 0px; padding: 2px 8px; z-index: 102; color: black; font-size: 80%; width: auto; white-space: nowrap}
+#MathJax_MSIE_Frame {position: absolute; top: 0; left: 0; width: 0px; z-index: 101; border: 0px; margin: 0px; padding: 0px}
+.MathJax_Error {color: #CC0000; font-style: italic}
+</xhtml:style>
+    <xhtml:style
+       type="text/css">  @-webkit-keyframes rotate {
+    from  { -webkit-transform: rotate(0deg); }
+    to   { -webkit-transform: rotate(360deg); }
+  }
+
+  @keyframes rotate {
+    from  { transform: rotate(0deg); }
+    to   { transform: rotate(360deg); }
+  }
+
+    .dropbox-dropin-btn, .dropbox-dropin-btn:link, .dropbox-dropin-btn:hover {
+      display: inline-block;
+      height: 14px;
+      font-family: &quot;Lucida Grande&quot;, &quot;Segoe UI&quot;, &quot;Tahoma&quot;, &quot;Helvetica Neue&quot;, &quot;Helvetica&quot;, sans-serif;
+      font-size: 11px;
+      font-weight: 600;
+      color: #636363;
+      text-decoration: none;
+      padding: 1px 7px 5px 3px;
+      border: 1px solid #ebebeb;
+      border-radius: 2px;
+      border-bottom-color: #d4d4d4;
+        background: #fcfcfc;
+  background: -moz-linear-gradient(top, #fcfcfc 0%, #f5f5f5 100%);
+  background: -webkit-linear-gradient(top, #fcfcfc 0%, #f5f5f5 100%);
+  background: linear-gradient(to bottom, #fcfcfc 0%, #f5f5f5 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fcfcfc', endColorstr='#f5f5f5',GradientType=0);  
+    }
+
+    .dropbox-dropin-default:hover, .dropbox-dropin-error:hover {
+      border-color: #dedede;
+      border-bottom-color: #cacaca;
+        background: #fdfdfd;
+  background: -moz-linear-gradient(top, #fdfdfd 0%, #f5f5f5 100%);
+  background: -webkit-linear-gradient(top, #fdfdfd 0%, #f5f5f5 100%);
+  background: linear-gradient(to bottom, #fdfdfd 0%, #f5f5f5 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fdfdfd', endColorstr='#f5f5f5',GradientType=0);  
+    }
+
+    .dropbox-dropin-default:active, .dropbox-dropin-error:active {
+      border-color: #d1d1d1;
+      box-shadow: inset 0 1px 1px rgba(0,0,0,0.1);
+    }
+
+    .dropbox-dropin-btn .dropin-btn-status {
+      display: inline-block;
+      width: 15px;
+      height: 14px;
+      vertical-align: bottom;
+      margin: 0 5px 0 2px;
+      background: transparent url('https://www.dropbox.com/static/images/widgets/dbx-saver-status.png') no-repeat;
+      position: relative;
+      top: 2px;
+    }
+
+    .dropbox-dropin-default .dropin-btn-status {
+      background-position: 0px 0px;
+    }
+
+    .dropbox-dropin-progress .dropin-btn-status {
+      width: 18px;
+      margin: 0 4px 0 0;
+      background: url('https://www.dropbox.com/static/images/widgets/dbx-progress.png') no-repeat center center;
+        -webkit-animation-name: rotate;
+        -webkit-animation-duration: 1.7s;
+        -webkit-animation-iteration-count: infinite;
+        -webkit-animation-timing-function: linear;
+      animation-name: rotate;
+      animation-duration: 1.7s;
+      animation-iteration-count: infinite;
+      animation-timing-function: linear;
+    }
+
+    .dropbox-dropin-success .dropin-btn-status {
+      background-position: -15px 0px;
+    }
+
+    .dropbox-dropin-disabled {
+      background: #e0e0e0;
+      border: 1px #dadada solid;
+      border-bottom: 1px solid #ccc;
+      box-shadow: none;
+    }
+
+    .dropbox-dropin-disabled .dropin-btn-status {
+      background-position: -30px 0px;
+    }
+
+    .dropbox-dropin-error .dropin-btn-status {
+      background-position: -45px 0px;
+    }
+
+  @media only screen and (-webkit-min-device-pixel-ratio: 1.4) {
+      .dropbox-dropin-btn .dropin-btn-status {
+        background-image: url('https://www.dropbox.com/static/images/widgets/dbx-saver-status-2x.png');
+        background-size: 60px 14px;
+          -webkit-background-size: 60px 14px;
+      }
+
+      .dropbox-dropin-progress .dropin-btn-status {
+        background: url('https://www.dropbox.com/static/images/widgets/dbx-progress-2x.png') no-repeat center center;
+        background-size: 20px 20px;
+          -webkit-background-size: 20px 20px;
+      }
+  }
+
+    .dropbox-saver:hover, .dropbox-chooser:hover {
+      text-decoration: none;
+      cursor: pointer;
+    }
+
+    .dropbox-chooser, .dropbox-dropin-btn {
+      line-height: 11px !important;
+      text-decoration: none !important;
+      box-sizing: content-box !important;
+        -webkit-box-sizing: content-box !important;
+        -moz-box-sizing: content-box !important;
+    }
+    </xhtml:style>
+    <xhtml:style
+       type="text/css">.MJXp-script {font-size: .8em}
+.MJXp-right {-webkit-transform-origin: right; -moz-transform-origin: right; -ms-transform-origin: right; -o-transform-origin: right; transform-origin: right}
+.MJXp-bold {font-weight: bold}
+.MJXp-italic {font-style: italic}
+.MJXp-scr {font-family: MathJax_Script,'Times New Roman',Times,STIXGeneral,serif}
+.MJXp-frak {font-family: MathJax_Fraktur,'Times New Roman',Times,STIXGeneral,serif}
+.MJXp-sf {font-family: MathJax_SansSerif,'Times New Roman',Times,STIXGeneral,serif}
+.MJXp-cal {font-family: MathJax_Caligraphic,'Times New Roman',Times,STIXGeneral,serif}
+.MJXp-mono {font-family: MathJax_Typewriter,'Times New Roman',Times,STIXGeneral,serif}
+.MJXp-largeop {font-size: 150%}
+.MJXp-largeop.MJXp-int {vertical-align: -.2em}
+.MJXp-math {display: inline-block; line-height: 1.2; text-indent: 0; font-family: 'Times New Roman',Times,STIXGeneral,serif; white-space: nowrap; border-collapse: collapse}
+.MJXp-display {display: block; text-align: center; margin: 1em 0}
+.MJXp-math span {display: inline-block}
+.MJXp-box {display: block!important; text-align: center}
+.MJXp-box:after {content: &quot; &quot;}
+.MJXp-rule {display: block!important; margin-top: .1em}
+.MJXp-char {display: block!important}
+.MJXp-mo {margin: 0 .15em}
+.MJXp-mfrac {margin: 0 .125em; vertical-align: .25em}
+.MJXp-denom {display: inline-table!important; width: 100%}
+.MJXp-denom &gt; * {display: table-row!important}
+.MJXp-surd {vertical-align: top}
+.MJXp-surd &gt; * {display: block!important}
+.MJXp-script-box &gt; *  {display: table!important; height: 50%}
+.MJXp-script-box &gt; * &gt; * {display: table-cell!important; vertical-align: top}
+.MJXp-script-box &gt; *:last-child &gt; * {vertical-align: bottom}
+.MJXp-script-box &gt; * &gt; * &gt; * {display: block!important}
+.MJXp-mphantom {visibility: hidden}
+.MJXp-munderover, .MJXp-munder {display: inline-table!important}
+.MJXp-over {display: inline-block!important; text-align: center}
+.MJXp-over &gt; * {display: block!important}
+.MJXp-munderover &gt; *, .MJXp-munder &gt; * {display: table-row!important}
+.MJXp-mtable {vertical-align: .25em; margin: 0 .125em}
+.MJXp-mtable &gt; * {display: inline-table!important; vertical-align: middle}
+.MJXp-mtr {display: table-row!important}
+.MJXp-mtd {display: table-cell!important; text-align: center; padding: .5em 0 0 .5em}
+.MJXp-mtr &gt; .MJXp-mtd:first-child {padding-left: 0}
+.MJXp-mtr:first-child &gt; .MJXp-mtd {padding-top: 0}
+.MJXp-mlabeledtr {display: table-row!important}
+.MJXp-mlabeledtr &gt; .MJXp-mtd:first-child {padding-left: 0}
+.MJXp-mlabeledtr:first-child &gt; .MJXp-mtd {padding-top: 0}
+.MJXp-merror {background-color: #FFFF88; color: #CC0000; border: 1px solid #CC0000; padding: 1px 3px; font-style: normal; font-size: 90%}
+.MJXp-scale0 {-webkit-transform: scaleX(.0); -moz-transform: scaleX(.0); -ms-transform: scaleX(.0); -o-transform: scaleX(.0); transform: scaleX(.0)}
+.MJXp-scale1 {-webkit-transform: scaleX(.1); -moz-transform: scaleX(.1); -ms-transform: scaleX(.1); -o-transform: scaleX(.1); transform: scaleX(.1)}
+.MJXp-scale2 {-webkit-transform: scaleX(.2); -moz-transform: scaleX(.2); -ms-transform: scaleX(.2); -o-transform: scaleX(.2); transform: scaleX(.2)}
+.MJXp-scale3 {-webkit-transform: scaleX(.3); -moz-transform: scaleX(.3); -ms-transform: scaleX(.3); -o-transform: scaleX(.3); transform: scaleX(.3)}
+.MJXp-scale4 {-webkit-transform: scaleX(.4); -moz-transform: scaleX(.4); -ms-transform: scaleX(.4); -o-transform: scaleX(.4); transform: scaleX(.4)}
+.MJXp-scale5 {-webkit-transform: scaleX(.5); -moz-transform: scaleX(.5); -ms-transform: scaleX(.5); -o-transform: scaleX(.5); transform: scaleX(.5)}
+.MJXp-scale6 {-webkit-transform: scaleX(.6); -moz-transform: scaleX(.6); -ms-transform: scaleX(.6); -o-transform: scaleX(.6); transform: scaleX(.6)}
+.MJXp-scale7 {-webkit-transform: scaleX(.7); -moz-transform: scaleX(.7); -ms-transform: scaleX(.7); -o-transform: scaleX(.7); transform: scaleX(.7)}
+.MJXp-scale8 {-webkit-transform: scaleX(.8); -moz-transform: scaleX(.8); -ms-transform: scaleX(.8); -o-transform: scaleX(.8); transform: scaleX(.8)}
+.MJXp-scale9 {-webkit-transform: scaleX(.9); -moz-transform: scaleX(.9); -ms-transform: scaleX(.9); -o-transform: scaleX(.9); transform: scaleX(.9)}
+.MathJax_PHTML .noError {vertical-align: ; font-size: 90%; text-align: left; color: black; padding: 1px 3px; border: 1px solid}
+</xhtml:style>
+  </defs>
+  <g
+     transform="translate(16.17201,5.4556179)"
+     id="g6">
+    <rect
+       style="fill:#d5e8d4;stroke:#82b366;stroke-width:1.09954786;stroke-dasharray:3.2986436, 3.2986436"
+       id="rect8"
+       pointer-events="all"
+       ry="18.141533"
+       rx="14.994667"
+       height="120.94355"
+       width="279.90045"
+       y="279.00668"
+       x="180.04977" />
+    <rect
+       style="fill:#f8cecc;stroke:#b85450;stroke-dasharray:3, 3"
+       id="rect10"
+       pointer-events="all"
+       ry="12"
+       rx="12"
+       height="80"
+       width="280"
+       y="210"
+       x="30" />
+    <path
+       style="fill:none;stroke:#000000;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path12"
+       pointer-events="all"
+       stroke-miterlimit="10"
+       d="m 258,340 4,-100 m -4,0 4,100 m -4,-100" />
+    <path
+       style="fill:none;stroke:#001dbc;stroke-width:0.74856186;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path14"
+       pointer-events="stroke"
+       stroke-miterlimit="10"
+       d="m 581.01437,237 -49.10302,0" />
+    <path
+       inkscape:transform-center-y="0.55110063"
+       inkscape:transform-center-x="-7.2559646"
+       style="fill:#001dbc;stroke:#001dbc;stroke-width:0.90468055;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path16"
+       pointer-events="all"
+       stroke-miterlimit="10"
+       d="m 527.38143,236.86222 5.55984,-3.60657 -1.38996,3.60657 1.38996,3.60657 z" />
+    <rect
+       style="fill:#dae8fc;stroke:#6c8ebf"
+       id="rect18"
+       pointer-events="all"
+       ry="15"
+       rx="15"
+       height="100"
+       width="100"
+       y="182.32376"
+       x="579.45563" />
+    <g
+       id="g20"
+       transform="translate(585.5,229.5)">
+      <switch
+         id="switch22">
+        <foreignObject
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           height="14"
+           width="76"
+           pointer-events="all"
+           style="overflow:visible;">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 78px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
+              <xhtml:font
+                 color="#000000"
+                 style="font-size: 14px"
+                 face="Times New Roman">Control agent</xhtml:font>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <flowRoot
+           transform="translate(-602.17201,-235.45562)"
+           style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="flowRoot4452"
+           xml:space="preserve"><flowRegion
+             id="flowRegion4454"><rect
+               y="198.61469"
+               x="594.66235"
+               height="91.966133"
+               width="99.759872"
+               id="rect4456" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '"
+             id="flowPara4458">Control agent</flowPara></flowRoot>
+      </switch>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path26"
+       pointer-events="all"
+       stroke-miterlimit="10"
+       d="m 262,30 0,5 m -4,0 0,-5 m 0,5" />
+    <path
+       style="fill:none;stroke:#001dbc;stroke-width:1.0460279;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path28"
+       pointer-events="stroke"
+       stroke-miterlimit="10"
+       d="m 525.98306,317.64623 0,-87.53395 q 0,-10.94174 0,-21.88349 l 0,-87.53394" />
+    <path
+       style="fill:none;stroke:#b20000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path30"
+       pointer-events="stroke"
+       stroke-miterlimit="10"
+       d="m 133,40 110.63,0" />
+    <path
+       style="fill:#b20000;stroke:#b20000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path32"
+       pointer-events="all"
+       stroke-miterlimit="10"
+       d="m 248.88,40 -7,3.5 1.75,-3.5 -1.75,-3.5 z" />
+    <rect
+       style="fill:#008a00;stroke:#005700;stroke-width:1.3749125"
+       id="rect34"
+       pointer-events="all"
+       ry="10.81426"
+       rx="14.159184"
+       height="72.09507"
+       width="133.72565"
+       y="3.17309"
+       x="10.277502" />
+    <g
+       id="g36"
+       transform="translate(50.926886,30.941252)">
+      <switch
+         id="switch38">
+        <foreignObject
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           height="14"
+           width="61"
+           pointer-events="all"
+           style="overflow:visible;">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; vertical-align: top; width: 63px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
+              <xhtml:font
+                 style="font-size: 14px"
+                 face="Times New Roman">Generators</xhtml:font>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           style="font-size:12px;line-height:0%;font-family:Helvetica;text-anchor:middle;fill:#ffffff"
+           id="text40"
+           font-size="12px"
+           y="13.779374"
+           x="23.206261"><tspan
+             id="tspan4354"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">Generators</tspan></text>
+      </switch>
+    </g>
+    <circle
+       style="fill:#fa6800;stroke:#c73500"
+       r="10"
+       id="ellipse42"
+       pointer-events="all"
+       cy="40"
+       cx="260" />
+    <path
+       style="fill:none;stroke:#c73500;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path44"
+       pointer-events="all"
+       stroke-miterlimit="10"
+       d="m 250,40 20,0" />
+    <path
+       style="fill:none;stroke:#c73500;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path46"
+       pointer-events="all"
+       stroke-miterlimit="10"
+       d="m 260,30 0,20" />
+    <path
+       style="fill:none;stroke:#b20000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path48"
+       pointer-events="all"
+       stroke-miterlimit="10"
+       d="m 257,110 0,-60 m 6,0 0,60 m 0,-60" />
+    <path
+       style="fill:none;stroke:#b20000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path50"
+       pointer-events="stroke"
+       stroke-miterlimit="10"
+       d="m 270,120 33.63,0" />
+    <path
+       style="fill:#b20000;stroke:#b20000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path52"
+       pointer-events="all"
+       stroke-miterlimit="10"
+       d="m 308.88,120 -7,3.5 1.75,-3.5 -1.75,-3.5 z" />
+    <circle
+       style="fill:#fa6800;stroke:#c73500"
+       r="10"
+       id="ellipse54"
+       pointer-events="all"
+       cy="120"
+       cx="260" />
+    <path
+       style="fill:none;stroke:#c73500;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path56"
+       pointer-events="all"
+       stroke-miterlimit="10"
+       d="m 250,120 20,0" />
+    <path
+       style="fill:none;stroke:#b20000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path58"
+       pointer-events="all"
+       stroke-miterlimit="10"
+       d="m 257,340 0,-210 m 6,0 0,210 m 0,-210" />
+    <path
+       style="fill:none;stroke:#b20000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path60"
+       pointer-events="stroke"
+       stroke-miterlimit="10"
+       d="m 268.62225,179.67531 33.63,0" />
+    <path
+       style="fill:#b20000;stroke:#b20000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path62"
+       pointer-events="all"
+       stroke-miterlimit="10"
+       d="m 308.05335,179.39976 -7,3.5 1.75,-3.5 -1.75,-3.5 z" />
+    <circle
+       style="fill:#fa6800;stroke:#c73500"
+       r="10"
+       id="ellipse64"
+       pointer-events="all"
+       cy="178.84866"
+       cx="258.8978" />
+    <path
+       style="fill:none;stroke:#c73500;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path66"
+       pointer-events="all"
+       stroke-miterlimit="10"
+       d="m 249.17335,179.67531 20,0" />
+    <g
+       id="g70"
+       transform="translate(332.5,112.5)">
+      <switch
+         id="switch72">
+        <foreignObject
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           height="14"
+           width="34"
+           pointer-events="all"
+           style="overflow:visible;">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 36px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
+              <xhtml:font
+                 style="font-size: 14px"
+                 face="Times New Roman">Loads</xhtml:font>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+      </switch>
+      <text
+         id="text4362"
+         y="9.2360382"
+         x="55.907623"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:12.5px;line-height:1.25"
+           y="9.2360382"
+           x="58.104889"
+           id="tspan4364"
+           sodipodi:role="line"> </tspan></text>
+    </g>
+    <rect
+       style="fill:#e1d5e7;stroke:#9673a6;stroke-width:1.09593129"
+       id="rect76"
+       pointer-events="all"
+       ry="5.6549501"
+       rx="7.6461072"
+       height="37.699665"
+       width="101.9481"
+       y="162.11203"
+       x="309.65829" />
+    <path
+       style="fill:none;stroke:#001dbc;stroke-width:1.24679542;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path84"
+       pointer-events="stroke"
+       stroke-miterlimit="10"
+       d="M 526.37275,120 396.37,120" />
+    <rect
+       style="fill:#e1d5e7;stroke:#9673a6;stroke-width:1.82592463"
+       id="rect68"
+       pointer-events="all"
+       ry="9.3774195"
+       rx="12.799258"
+       height="62.516129"
+       width="170.65678"
+       y="82.581917"
+       x="310.96405" />
+    <path
+       style="fill:#001dbc;stroke:#001dbc;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path86"
+       pointer-events="all"
+       stroke-miterlimit="10"
+       d="m 483.74697,119.80516 7,-3.5 -1.75,3.5 1.75,3.5 z" />
+    <path
+       style="fill:none;stroke:#001dbc;stroke-width:1.15327704;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path88"
+       pointer-events="stroke"
+       stroke-miterlimit="10"
+       d="m 525.78822,182 -111.2319,0" />
+    <path
+       style="fill:#001dbc;stroke:#001dbc;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path90"
+       pointer-events="all"
+       stroke-miterlimit="10"
+       d="m 412.93576,181.97717 7,-3.5 -1.75,3.5 1.75,3.5 z" />
+    <circle
+       style="fill:#fa6800;stroke:#c73500"
+       r="10"
+       id="ellipse92"
+       pointer-events="all"
+       cy="250"
+       cx="260" />
+    <path
+       style="fill:none;stroke:#c73500;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path94"
+       pointer-events="all"
+       stroke-miterlimit="10"
+       d="m 250,250 20,0" />
+    <path
+       style="fill:none;stroke:#c73500;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path96"
+       pointer-events="all"
+       stroke-miterlimit="10"
+       d="m 260,240 0,20" />
+    <rect
+       style="fill:#00960f;fill-opacity:1;stroke:#b20000;stroke-width:1.07353675"
+       id="rect98"
+       pointer-events="all"
+       ry="5.1904058"
+       rx="4.4963231"
+       height="34.602707"
+       width="89.92646"
+       y="215.36052"
+       x="45.03677" />
+    <g
+       id="g100"
+       transform="translate(76.5,227.5)">
+      <switch
+         id="switch102">
+        <foreignObject
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           height="14"
+           width="26"
+           pointer-events="all"
+           style="overflow:visible;">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; vertical-align: top; width: 26px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
+              <xhtml:font
+                 style="font-size: 14px"
+                 face="Times New Roman">Grid</xhtml:font>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           style="font-size:12px;line-height:0%;font-family:Helvetica;text-anchor:middle;fill:#ffffff"
+           id="text104"
+           font-size="12px"
+           y="13"
+           x="13"><tspan
+             id="tspan4408"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">Grid</tspan></text>
+      </switch>
+    </g>
+    <rect
+       style="fill:#00960f;fill-opacity:1;stroke:#b20000;stroke-width:1.08530772"
+       id="rect106"
+       pointer-events="all"
+       ry="5.3055468"
+       rx="4.4957347"
+       height="35.370312"
+       width="89.914696"
+       y="255.04265"
+       x="45.042652" />
+    <g
+       id="g108"
+       transform="translate(68.5,265.6175)">
+      <switch
+         id="switch110">
+        <foreignObject
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           height="14"
+           width="42"
+           pointer-events="all"
+           style="overflow:visible;">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; vertical-align: top; width: 42px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
+              <xhtml:font
+                 style="font-size: 14px"
+                 face="Times New Roman">Battery</xhtml:font>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           style="font-size:12px;line-height:0%;font-family:Helvetica;text-anchor:middle;fill:#ffffff"
+           id="text112"
+           font-size="12px"
+           y="13"
+           x="21"><tspan
+             id="tspan4410"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">Battery</tspan></text>
+      </switch>
+    </g>
+    <path
+       style="fill:none;stroke:#001dbc;stroke-width:1.10630155;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path114"
+       pointer-events="stroke"
+       stroke-miterlimit="10"
+       d="M 525.59338,250 276.37,250" />
+    <path
+       style="fill:#001dbc;stroke:#001dbc;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path116"
+       pointer-events="all"
+       stroke-miterlimit="10"
+       d="m 271.12,250 7,-3.5 -1.75,3.5 1.75,3.5 z" />
+    <rect
+       style="fill:#60a917;stroke:#2d7600;stroke-width:1.10847354"
+       id="rect118"
+       pointer-events="all"
+       ry="5.5358839"
+       rx="4.4945765"
+       height="36.905891"
+       width="89.891525"
+       y="281.56989"
+       x="324.73047" />
+    <g
+       id="g120"
+       transform="translate(353.05875,296.80939)">
+      <switch
+         id="switch122">
+        <foreignObject
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           height="14"
+           width="26"
+           pointer-events="all"
+           style="overflow:visible;">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; vertical-align: top; width: 26px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
+              <xhtml:font
+                 style="font-size: 14px"
+                 face="Times New Roman">Grid</xhtml:font>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           style="font-size:12px;line-height:0%;font-family:Helvetica;text-anchor:middle;fill:#ffffff"
+           id="text124"
+           font-size="12px"
+           y="13"
+           x="13"><tspan
+             id="tspan4430"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">Grid</tspan></text>
+      </switch>
+    </g>
+    <rect
+       style="fill:#60a917;stroke:#2d7600;stroke-width:1.13747561"
+       id="rect126"
+       pointer-events="all"
+       ry="5.8822517"
+       rx="4.4541574"
+       height="39.215012"
+       width="89.083153"
+       y="358.71625"
+       x="320.06873" />
+    <g
+       id="g128"
+       transform="translate(343.5,375.5)">
+      <switch
+         id="switch130">
+        <foreignObject
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           height="14"
+           width="42"
+           pointer-events="all"
+           style="overflow:visible;">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; vertical-align: top; width: 42px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
+              <xhtml:font
+                 style="font-size: 14px"
+                 face="Times New Roman">Battery</xhtml:font>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           style="font-size:12px;line-height:0%;font-family:Helvetica;text-anchor:middle;fill:#ffffff"
+           id="text132"
+           font-size="12px"
+           y="13"
+           x="21"><tspan
+             id="tspan4432"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">Battery</tspan></text>
+      </switch>
+    </g>
+    <circle
+       style="fill:#fa6800;stroke:#c73500"
+       r="10"
+       id="ellipse134"
+       pointer-events="all"
+       cy="350"
+       cx="260" />
+    <path
+       style="fill:none;stroke:#c73500;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path136"
+       pointer-events="all"
+       stroke-miterlimit="10"
+       d="m 250,350 20,0" />
+    <path
+       style="fill:none;stroke:#b20000;stroke-width:1.25569856;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path138"
+       pointer-events="stroke"
+       stroke-miterlimit="10"
+       d="m 267.12745,342.81679 59.60509,-30.04857" />
+    <path
+       style="fill:#b20000;stroke:#b20000;stroke-width:1.38938773;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path140"
+       pointer-events="all"
+       stroke-miterlimit="10"
+       d="m 324.8585,312.73761 -5.97903,9.44322 -0.0386,-5.87011 -4.03745,-3.49804 z" />
+    <path
+       style="fill:none;stroke:#b20000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path142"
+       pointer-events="stroke"
+       stroke-miterlimit="10"
+       d="m 267.07,357.07 47.21,23.13" />
+    <path
+       style="fill:#b20000;stroke:#b20000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path144"
+       pointer-events="all"
+       stroke-miterlimit="10"
+       d="m 319,382.51 -7.83,0.06 3.11,-2.37 -0.03,-3.91 z" />
+    <path
+       style="fill:none;stroke:#b20000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path146"
+       pointer-events="stroke"
+       stroke-miterlimit="10"
+       d="m 135,235 111.58,7.5" />
+    <path
+       style="fill:#b20000;stroke:#b20000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path148"
+       pointer-events="all"
+       stroke-miterlimit="10"
+       d="m 251.81,242.85 -7.22,3.03 1.99,-3.38 -1.52,-3.61 z" />
+    <path
+       style="fill:none;stroke:#b20000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path150"
+       pointer-events="stroke"
+       stroke-miterlimit="10"
+       d="M 135,270 246.6,257.77" />
+    <path
+       style="fill:#b20000;stroke:#b20000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path152"
+       pointer-events="all"
+       stroke-miterlimit="10"
+       d="m 251.82,257.19 -6.58,4.24 1.36,-3.66 -2.12,-3.29 z" />
+    <path
+       style="fill:none;stroke:#001dbc;stroke-width:1.14853835;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path154"
+       pointer-events="stroke"
+       stroke-miterlimit="10"
+       d="m 525.88957,300.01802 0,43.05808 q 0,10.76452 -12.25452,10.76452 l -237.28428,0" />
+    <path
+       style="fill:#001dbc;stroke:#001dbc;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path156"
+       pointer-events="all"
+       stroke-miterlimit="10"
+       d="m 271.12,350 7,-3.5 -1.75,3.5 1.75,3.5 z" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect158"
+       pointer-events="all"
+       height="20"
+       width="90"
+       y="375"
+       x="190" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect166"
+       pointer-events="all"
+       height="20"
+       width="120"
+       y="270"
+       x="144" />
+    <g
+       id="g168"
+       transform="translate(150.5,272.5)">
+      <switch
+         id="switch170">
+        <foreignObject
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           height="14"
+           width="106"
+           pointer-events="all"
+           style="overflow:visible;">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 106px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
+              <xhtml:font
+                 style="font-size: 14px"
+                 face="Times New Roman">Energy deficiency </xhtml:font>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+           id="text172"
+           font-size="12px"
+           y="13"
+           x="53" />
+      </switch>
+    </g>
+    <rect
+       style="fill:none;stroke:none"
+       id="rect174"
+       pointer-events="all"
+       height="20"
+       width="110"
+       y="17"
+       x="140" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect182"
+       pointer-events="all"
+       height="20"
+       width="60"
+       y="100"
+       x="397" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect190"
+       pointer-events="all"
+       height="20"
+       width="90"
+       y="147"
+       x="397" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect198"
+       pointer-events="all"
+       height="20"
+       width="160"
+       y="230"
+       x="320" />
+    <g
+       id="g200"
+       transform="translate(321.5,232.5)">
+      <switch
+         id="switch202">
+        <foreignObject
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           height="14"
+           width="140"
+           pointer-events="all"
+           style="overflow:visible;">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: left;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <xhtml:font
+                 style="font-size: 14px"
+                 face="Times New Roman">Energy deficiency action</xhtml:font>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+           id="text204"
+           font-size="12px"
+           y="13"
+           x="70" />
+      </switch>
+    </g>
+    <rect
+       style="fill:none;stroke:none"
+       id="rect206"
+       pointer-events="all"
+       height="20"
+       width="130"
+       y="333"
+       x="335" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect214"
+       pointer-events="all"
+       height="20"
+       width="50"
+       y="216"
+       x="510" />
+    <rect
+       style="fill:none;stroke:#000000"
+       id="rect222"
+       pointer-events="all"
+       height="440"
+       width="700"
+       y="0"
+       x="0" />
+    <text
+       id="text4356"
+       y="25.093666"
+       x="241.8853"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '"
+         y="25.093666"
+         x="241.8853"
+         id="tspan4358"
+         sodipodi:role="line">Energy generated</tspan></text>
+    <flowRoot
+       transform="translate(-6.0110061,-4.3577044)"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4370"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4372"><rect
+           y="84.436401"
+           x="314.08771"
+           height="61.815044"
+           width="175.1479"
+           id="rect4374" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '"
+         id="flowPara4376">Price</flowPara><flowPara
+         id="flowPara4406"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">responsive loads</flowPara></flowRoot>
+    <text
+       id="text4380"
+       y="189.16566"
+       x="364.59988"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '"
+         y="189.16566"
+         x="364.59988"
+         id="tspan4382"
+         sodipodi:role="line">TCLs</tspan></text>
+    <flowRoot
+       transform="translate(-0.5,-0.5)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4384"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4386"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '"
+           y="103.72642"
+           x="431.51178"
+           height="44.639153"
+           width="87.073898"
+           id="rect4388" /></flowRegion><flowPara
+         style="font-size:17.5px;line-height:1.25"
+         id="flowPara4390"> </flowPara></flowRoot>
+    <text
+       transform="scale(1.5150057,0.66006351)"
+       id="text4392"
+       y="130.00636"
+       x="311.48889"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.0623px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '"
+         id="tspan4396"
+         y="130.00636"
+         x="314.24667"
+         sodipodi:role="line"> </tspan></text>
+    <flowRoot
+       transform="translate(-163.28117,-10.269869)"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4414"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4416"><rect
+           y="228.27516"
+           x="374.19733"
+           height="43.915165"
+           width="365.46313"
+           id="rect4418" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '"
+         id="flowPara4420">Energy deficiency action </flowPara></flowRoot>
+    <flowRoot
+       transform="translate(-127.74607,-5.7273445)"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4422"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4424"><rect
+           y="330.77988"
+           x="342.23349"
+           height="37.174957"
+           width="386.0687"
+           id="rect4426" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '"
+         id="flowPara4428">Energy excesss action</flowPara></flowRoot>
+    <flowRoot
+       transform="translate(-33.755146,26.715982)"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4438"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4440"><rect
+           y="57.43396"
+           x="465.12894"
+           height="70.162666"
+           width="296.86478"
+           id="rect4442" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '"
+         id="flowPara4446">Dynamic pricing</flowPara></flowRoot>
+  </g>
+  <flowRoot
+     transform="translate(6.6156394,2.6337193)"
+     style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="flowRoot4398"
+     xml:space="preserve"><flowRegion
+       id="flowRegion4400"><rect
+         y="153.32547"
+         x="430.40958"
+         height="32.916096"
+         width="212.28847"
+         id="rect4402" /></flowRegion><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '"
+       id="flowPara4404">Direct control </flowPara></flowRoot>
+</svg>

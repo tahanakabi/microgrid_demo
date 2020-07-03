@@ -1,0 +1,65 @@
+<!--        <p>-->
+<!--            {{ form.base_load.label }}<br>-->
+<!--            {{ form.base_load(size=32) }}-->
+<!--            {% for error in form.base_load.errors %}-->
+<!--            <span style="color: red;">[{{ error }}]</span>-->
+<!--            {% endfor %}-->
+<!--        </p>-->
+
+<!--        <p>-->
+<!--            {{ form.temperatures.label }}<br>-->
+<!--            {{ form.temperatures(size=32) }}-->
+<!--            {% for error in form.temperatures.errors %}-->
+<!--            <span style="color: red;">[{{ error }}]</span>-->
+<!--            {% endfor %}-->
+<!--        </p>-->
+
+<!--        <p>-->
+<!--            {{ form.down_reg.label }}<br>-->
+<!--            {{ form.down_reg(size=32) }}-->
+<!--            {% for error in form.down_reg.errors %}-->
+<!--            <span style="color: red;">[{{ error }}]</span>-->
+<!--            {% endfor %}-->
+<!--        </p>-->
+<!--        <p>-->
+<!--            {{ form.up_reg.label }}<br>-->
+<!--            {{ form.up_reg(size=32) }}-->
+<!--            {% for error in form.up_reg.errors %}-->
+<!--            <span style="color: red;">[{{ error }}]</span>-->
+<!--            {% endfor %}-->
+<!--        </p>-->
+
+        <p>
+            {{ form.dayn.label }}<br>
+            {{ form.dayn(size=32) }}
+            {% for error in form.dayn.errors %}
+            <span style="color: red;">[{{ error }}]</span>
+            {% endfor %}
+        </p>
+
+                <p>
+            {{ form.iterations.label }}<br>
+            {{ form.iterations(size=32) }}
+            {% for error in form.iterations.errors %}
+            <span style="color: red;">[{{ error }}]</span>
+            {% endfor %}
+        </p>
+
+    num_tcls = IntegerField("Number of TCLs",validators=[Optional()], render_kw={'placeholder': 'Number of thermostatically controlled loads (TCLs). In this simulation TCLs are basically space heaters. Default:100'})
+    tcl_power = FloatField("TCL average power (kW)",validators=[Optional()], description = 'Average space heaters nominal power default: 1.5 kW')
+    tcl_price = FloatField("TCLs price (cents)",validators=[Optional()], description = 'The price offered to TCLs. Since the TCLs are directly controllable, it is fair to charge them lower price than the normal retail price. Default: 3.2 euro cents')
+    num_loads = IntegerField("Number of loads",validators=[Optional()], description = 'Number of households in the microgrid. Default: 150')
+    # base_load = FloatField("Typical load",validators=[Optional()])
+    normal_price = FloatField("Normal retail price (cents)",validators=[Optional()], description = 'The average price offered by electricity retailers at the study period. Default: 5.48 euro cents')
+    # temperatures = FloatField("Temperatures",validators=[Optional()])
+
+    day0 = IntegerField("Day 0",validators=[Optional(), NumberRange(min=0, max=100, message="Please choose between 0 and 100")], description = 'Starting day: 0 is 1-1-2018')
+    # dayn = IntegerField("Day N",validators=[Optional()])
+    power_cost = FloatField("Power cost per kWh (cents)",validators=[Optional()], description = 'Cost of generating 1 kWh of energy. Default: 3.2 euro cents')
+    # down_reg = FloatField("Down regulation prices",validators=[Optional()])
+    # up_reg = FloatField("Up regulation prices",validators=[Optional()])
+    imp_fees = FloatField("Power Transmission fees (import) ",validators=[Optional()], description = 'Fees paid to the external grid for importing 1 kw of power. Default: 0.97 euro cents')
+    exp_fees = FloatField("Power Transmission fees (export) ",validators=[Optional()], description = 'Fees paid to the external grid for exporting 1 kw of power. Default: 0.09 euro cents')
+    battery_capacity = FloatField("Battery Capacity kWh",validators=[Optional()], description = 'Capacity of the energy storage system. Default: 500 kWh')
+    max_discharge = FloatField("Discharge limit per hour",validators=[Optional()], description = 'Maximum power that the battery can feed into the grid during one hour. Default: 250 kWh')
+    max_charge = FloatField("Charge limit per hour",validators=[Optional()], description = 'Maximum power that the battery can take during one hour. Default: 250 kWh')
