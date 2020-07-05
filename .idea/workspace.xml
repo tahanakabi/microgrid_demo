@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f5199b5-e0aa-42e1-ad5a-1dd31146dadb" name="Default Changelist" comment="" />
+    <list default="true" id="6f5199b5-e0aa-42e1-ad5a-1dd31146dadb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1eBLyftZHolLqomKtcG6Jggjv3W" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -53,13 +60,29 @@
       <option name="presentableId" value="Default" />
       <updated>1593790294126</updated>
     </task>
+    <task id="LOCAL-00001" summary="renamed microgrid_demo.py to app.py">
+      <created>1593952683847</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593952683848</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="renamed microgrid_demo.py to app.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="renamed microgrid_demo.py to app.py" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593792729890">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1593792729890" />
+    <state x="436" y="11" key="CommitChangelistDialog2" timestamp="1593952683066">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="436" y="11" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1593952683066" />
     <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1593792728347">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -88,5 +111,21 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="559" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593811565417" />
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1593952698002">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1593952698002" />
+    <state x="506" y="149" key="VcsDiffUtil.ChangesDialog" timestamp="1593812751859">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="506" y="149" key="VcsDiffUtil.ChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1593812751859" />
+    <state x="495" y="216" key="git4idea.merge.GitMergeDialog" timestamp="1593812781669">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="495" y="216" key="git4idea.merge.GitMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1593812781669" />
+    <state x="486" y="216" key="git4idea.merge.GitPullDialog" timestamp="1593812680916">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="486" y="216" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1593812680916" />
   </component>
 </project>
