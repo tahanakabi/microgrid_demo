@@ -43,7 +43,7 @@ class ParamForm(FlaskForm):
     battery_capacity = FloatField("Battery Capacity kWh",validators=[Optional()], render_kw={'placeholder': 'Default: 500 kWh'})
     max_discharge = FloatField("Discharge limit per hour",validators=[Optional()], render_kw={'placeholder': 'Default: 250 kWh'})
     max_charge = FloatField("Charge limit per hour",validators=[Optional()], render_kw={'placeholder':'Default: 250 kWh'})
-    submit = SubmitField('Submit')
+    # submit = SubmitField('Submit')
     # parameters_dict={}
     # for param in parameters_list:
     #     parameters_dict[param]= FloatField(param)

@@ -7,7 +7,7 @@ from microgrid_env_web import MicroGridEnvWeb
 import numpy as np
 import pickle
 
-
+enviro = None
 
 @app.route('/index')
 def index():
@@ -24,8 +24,6 @@ def parameters():
     global enviro
     enviro = None
     form = ParamForm(request.form)
-    session.pop('enviro', None)
-    # param_dict={}
     if request.method == "POST" and form.validate_on_submit():
         flash('The following data is being processed: \n')
         for fieldname, value in form.data.items():
@@ -36,6 +34,7 @@ def parameters():
         return redirect(url_for('graphs'))
     else:
         return render_template('parameters.html', title='Microgrid Parameters', form=form)
+
 
 @app.route('/graphs',  methods=['GET', 'POST'])
 def graphs():
@@ -49,14 +48,17 @@ def graphs():
         enviro.env.reset_all(enviro.env.day - 1)
         return redirect(url_for('graphs'))
     if enviro == None:
+        print("Retrieving parameters")
+        parameters = request.get_json()
+        print(parameters)
         print("Initializing the environment")
         enviro = Environment(render=True, eps_start=0., eps_end=0.)
         print("Initializing the environment's environmennt")
         enviro.env = MicroGridEnvWeb(**session)
-        print("Initializing the Brain")
-        brain = Brain(environment=enviro)
-        print("Associating the brain with the environment")
-        enviro.brain = brain
+    print("Initializing the Brain")
+    brain = Brain(environment=enviro)
+    print("Associating the brain with the environment")
+    enviro.brain = brain
     print("Running the episode")
     enviro.runEpisode(day= enviro.env.day, pplt=True, web=True)
     print("Rendering the template")
