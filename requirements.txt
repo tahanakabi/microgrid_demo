@@ -1,6 +1,6 @@
 #Requirements
 
-flask==1.1.2
+flask==2.3.2
 tensorflow==2.2.0
 gym==0.17.2
 flask-wtf==0.14.3
